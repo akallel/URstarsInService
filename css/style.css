@@ -43,7 +43,8 @@ body{
 	margin: 0 auto;
 }
 .header-bg{
-	background: rgb(215-217-218);
+	background: url('../images/bg4.png');
+	background-color: white;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f7d60', endColorstr='#a3a07d',GradientType=0 );
 }
 .header {
@@ -191,7 +192,7 @@ input#searchSubmit {
 #tiles {
 	list-style-type: none;
 	position: relative; /** Needed to ensure items are laid out relative to this container **/
-	margin: 0;
+	margin:0;
 }
 /*** Grid items*/
 #tiles li {
@@ -211,7 +212,7 @@ input#searchSubmit {
 /** * Grid item text */
 #tiles li p {
 	color: #666;
-	font-size: 12px;
+	font-size: 17px;
 	margin: 7px 0 0 7px;
 }
 /** * Some extra styles to randomize heights of grid items. */
