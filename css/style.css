@@ -44,7 +44,6 @@ body{
 }
 .header-bg{
 	background: url('../images/bg4.png');
-	background-color: white;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f7d60', endColorstr='#a3a07d',GradientType=0 );
 }
 .header {
