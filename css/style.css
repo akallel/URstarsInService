@@ -66,9 +66,9 @@ body{
 	width: 175px;
 	height: 40px;
 	line-height: 53px;
-	border-bottom: 4px solid #636393;
+	border-bottom: 4px solid #00467f;
 	padding:0px;
-	color: #575330;
+	color: #00467f;
 	font-size:18px;
 	font-weight:lighter;
 	text-align:center;
@@ -83,24 +83,24 @@ body{
 	color:#fff;
 }
 .nav li:nth-child(1) a {
-	border-color:#757256;
+	border-color:#00467f;
 }
 .nav li:nth-child(2) a {
-	border-color: #68654C;
+	border-color: #00467f ;
 }
 .nav li:nth-child(3) a {
-	border-color:#5C5A44;
+	border-color:#00467f;
 }
 .nav li:nth-child(1) a:hover {
-	border-bottom: 35px solid #757256;
+	border-bottom: 35px solid #00467f;
 	height: 9px;
 }
 .nav li:nth-child(2) a:hover {
-	border-bottom: 35px solid #68654C;
+	border-bottom: 35px solid #00467f;
 	height: 9px;
 }
 .nav li:nth-child(3) a:hover {
-	border-bottom: 35px solid  #5C5A44;
+	border-bottom: 35px solid  #00467f;
 	height: 9px;
 }
 .text{
